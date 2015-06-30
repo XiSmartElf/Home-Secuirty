@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/main_page_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity" >
+
+      
+<!--     <Button -->
+<!--         android:id="@+id/btnGetRegId" -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:text="Get RegId" /> -->
+
+<!--     <EditText -->
+<!--         android:id="@+id/etRegId" -->
+<!--         android:layout_width="match_parent" -->
+<!--         android:layout_height="250dp" /> -->
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="190dp"
+        android:paddingTop="30dp"
+        android:paddingRight="40dp"
+        android:paddingLeft="40dp"
+        android:textColor = "#ffffff"
+        android:text="@string/Statement" />
+
+    <Button
+        android:id="@+id/systemSwitch"
+        style="@style/ButtonText"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:clickable="true"
+        android:layout_gravity="center"
+        android:text="Turn System On" />
+
+    <Button
+        android:id="@+id/video"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:clickable="true"
+        style="@style/ButtonText"    
+        android:layout_gravity="center"                
+        android:text="View Video" />
+
+</LinearLayout>

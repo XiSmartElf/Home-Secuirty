@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>39316FD7-8C30-41DE-B014-46E428028879</string>
+	<key>IDESourceControlProjectName</key>
+	<string>jni_run</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EA75BC89-F6CC-4868-AD78-A4AC51D4726A</key>
+		<string>https://github.com/XiSmartElf/Cloud-and-Smartphone-based-Home-Secuirty-System.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>jni_run/jni_run.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EA75BC89-F6CC-4868-AD78-A4AC51D4726A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/XiSmartElf/Cloud-and-Smartphone-based-Home-Secuirty-System.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EA75BC89-F6CC-4868-AD78-A4AC51D4726A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EA75BC89-F6CC-4868-AD78-A4AC51D4726A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>homeSecuirty</string>
+		</dict>
+	</array>
+</dict>
+</plist>
